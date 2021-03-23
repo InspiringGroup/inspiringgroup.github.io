@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Inspiring Group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Inspiring Group at Tsinghua University."
 sitemap: false
 permalink: /
 ---
