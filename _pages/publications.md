@@ -1,23 +1,23 @@
 ---
-title: "Allan Lab - Publications"
+title: "InspiringGroup - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "InspiringGroup -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
+## Publications
 
-# Publications
+### Group highlights
 
-## Group highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+<div class="largefont">
+(For a full list go to [Google Scholar](https://scholar.google.com/citations?user=F8gi4rcAAAAJ&hl=en) or see a selected list [below](#selected-publications))
+</div>
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.projects %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -25,13 +25,32 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <pubtit class="largefont">{{ publi.name }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float:right;margin-bottom:18px;" />
+
+  <ul style="overflow: hidden">
+	{% if publi.number_desc == 1 %}   
+	<li> {{ publi.desc1}} </li> 
+	{% endif %}                        
+
+	{% if publi.number_desc == 2 %}   
+	<li> {{ publi.desc1}} </li> 
+	<li> {{ publi.desc2}} </li> 
+	{% endif %}                        
+
+	{% if publi.number_desc == 3 %}   
+	<li> {{ publi.desc1}} </li> 
+	<li> {{ publi.desc2}} </li> 
+	<li> {{ publi.desc3}} </li> 
+	{% endif %}                        
+
+	{% if publi.number_desc == 4 %}   
+	<li> {{ publi.desc1}} </li> 
+	<li> {{ publi.desc2}} </li> 
+	<li> {{ publi.desc3}} </li> 
+	<li> {{ publi.desc4}} </li> 
+	{% endif %}                        
+  </ul>
  </div>
 </div>
 
@@ -41,7 +60,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-{% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -49,14 +67,31 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+---
 
-
-## Full List
+### Selected Publications
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <b>{{ publi.title }}</b><br />
+  <em>{{ publi.authors }} </em><br />
+  {{publi.conference}}<br />
+  {%- if publi.pdf != nil -%}
+  <a href="{{ publi.pdf }}">[pdf]</a>
+  {% endif %}
+  {%- if publi.doi != nil -%}
+  <a href="{{ publi.doi }}">[doi]</a>
+  {% endif %}
+  {%- if publi.slides != nil -%}
+  <a href="{{ publi.slides }}">[slides]</a>
+  {% endif %}
+  {%- if publi.codes != nil -%}
+  <a href="{{ publi.codes }}">[codes]</a>
+  {% endif %}
+  {%- if publi.patent != nil -%}
+  <a href="{{ publi.patent }}">[patent]</a>
+  {% endif %}
 
+<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endfor %}
+<br />

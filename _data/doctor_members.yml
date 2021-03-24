@@ -1,0 +1,30 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ: 4
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Dai Zhang
+  photo: daizhang.jpeg
+  info: Ph.D. Student, co-advised with Prof. Mingwei Xu
+  email: zhangdai [dot] zedd [at] gmail [dot] com
+  number_educ: 1
+  education1: B.E. in Computer Science and Technology, Tsinghua University (THU)
+
+- name: Jiang Li
+  photo: jiangli.jpeg
+  info: Ph.D. Student, co-advised with Prof. Mingwei Xu
+  email: lijiang17 [at] mails [dot] tsinghua [dot] edu [dot] cn
+  number_educ: 1
+  education1: B.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT)
+
+- name: Zhenhua Zou
+  photo: zhenhuazou.jpeg
+  info: Ph.D. Student, co-advised with Prof. Qi Li
+  email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
+  number_educ: 1
+  education1: B.E. in Computer Science and Technology, Tsinghua University (THU)

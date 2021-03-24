@@ -1,46 +1,139 @@
 ---
-title: "Allan Lab - Research"
+title: "InspiringGroup - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "InspiringGroup -- Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+## Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+<div class="largefont">
+The InspiringGroup is working in all areas of systems and networking, with special interests in <span class="bluewords">security & privacy</span>, <span class="bluewords">architectural disruptions</span>, and <span class="bluewords">next-generation infrastructures</span>. We have published papers in top-tier venues and journals, covering *Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. 
+</div>
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+---
 
-Here are some themes and techniques that we currently work on:
+### Ongoing Research Projects
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+<div class="largefont">
+My current research is centering around the following theme: <span class="bluewords">Secure, Intelligent, and Practical Designs and Implementations for Large-Scale Distributed Systems</span>. The following are some concrete research directions for this theme. 
+</div>
+<br />
 
+<div class="rblock">
+#### <b>Next-Generation Networking Infrastructures
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+<div class="largefont">
+The full stack of our technology is evolving drastically to empower various applications. Infrastructures with tightly-coupled network, storage and computing resources are the future. Due to its distributed nature, we face a unique combination of challenges and opportunities in Networking Infrastructure:
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+  * Embrace the flexibility of host networking to execute application-desired (and therefore highly specialized) traffic shaping logic, while imposing negligible overhead in network data-plane. 
 
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
+  * Embrace the advance of network hardwares (i.e., programmable switches, SmartNICs) to achieve performant and low-latency cluster networking. 
 
-We also detected and investigated a quite particular YSR state in the same material.
+  * Evolving the control-plane, data-plane, and management-plane for production-grade datacenter and WAN networks.  
+</div>
+</div>
+<br />
 
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+<div class="rblock">
+#### <b>Blockchain-Assisted Secure Infrastructures
 
+<div class="largefont">
+Blockchain is the fundamental infrastructure of the next-generation trust-based Web (the so-called Web3.0).  Web3.0 is often cited to shape every aspect of our lives:
 
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from quantum gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
+  * Understand the defining trait of Web3.0 to separate the Web3.0 with the so-called Web2.0 era. 
 
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
+  * Define and advance the fundamental infrastructure enablers for a trust-based future Internet/Web. 
 
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
+  * Build transparent and trustworthy computing and ground-breaking Web3.0 applications via Blockchain Consortium. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+  * Build security and trust systems to empower new Internet architectural innovations and industry IoT systems. 
+</div>
+</div>
+<br />
 
-### ... and more.
+<div class="rblock">
+#### <b>Distributed Systems with Built-in (Artificial or Learned) Intelligence
+
+<div class="largefont">
+  * Intelligent distributed system designs powered by machine learning and data analysis, covering architectural design, management, performance, and deployment.
+
+  * Data-driven security policy design for large-scale and heterogeneous systems. 
+
+  * Systems to empower and secure Machine Learning innovations and applications. 
+</div>
+</div>
+<br />
+
+<div class="rblock">
+#### <b>Disruptive Initiatives to Shape Industry Battlegrounds 
+
+<div class="largefont">
+  * Root research proposals into societal problems such as data ownership and privacy invasion. 
+
+  * Position research deliveries as industry market differentiators. 
+
+  * Lead research initiatives that are visible and impactful to industry.
+</div>
+</div>
+
+---
+
+### Prior Research Projects 
+
+<div class="largefont">
+The following are prior projects that have shown substantial impacts on either academia or industry or both. 
+</div>
+<br />
+
+<div class="rblock">
+#### <b>Internet Security & Privacy and Architectural Innovations
+
+<div class="largefont">
+  * Readily deployable and proactive DDoS prevention systems: CCS’16, ToN’18, TIFS’18, U.S. National NSF I-Corps Award.
+
+  * Privacy Preserving access control for Tor Networks: ICNP’17. Acknowledge by the Tor Project and Cloudflare Inc. 
+
+  * Internet Source and Path Authentication: IWQoS’18.
+</div>
+</div>
+<br />
+
+<div class="rblock">
+#### <b>Datacenter Networking and Infrastructures
+
+<div class="largefont">
+  * World’s first production-grade SDN control-plane: NDSI’21 (Special acknowledgement), Google Feats of Engineering Award for High Network Availability. 
+
+  * World’s first production-grade automated management plane: leading author and under review, Google Feats of Engineering Award for WAN Capacity Augment.
+
+  * Managing multi-tenancy and routing control in public Cloud: INFOCOM’18, TPDS’19, TPDS’21, One U.S. Patent, Product adoption by NEC, Acknowledgement by Huawei and Google. 
+</div>
+</div>
+<br />
+
+<div class="rblock">
+#### <b>Blockchain Infrastructures and Web3.0 Initiatives
+
+<div class="largefont">
+  * Pioneering work in Blockchain Interoperability and Web3.0 definitions: CCS’19, TDSC’21, Invited Talks @ IEEE Blockchain Standards, Ant Group, IC3, etc.
+
+  * Blockchain-empowered application innovations: IEEE Network’20, ICDCS’19. 
+</div>
+</div>
+<br />
+
+<div class="rblock">
+#### <b>Systems Security
+
+<div class="largefont">
+  * Vulnerability discovery for large-scale RPC systems: ASIACCS’21, Adoption by Ant Group. 
+
+  * Advanced Persistent Threat: CCS’19.
+
+  * Searchable Symmetric Encryption: TIFS’20.
+</div>
+</div>
+<br />
+

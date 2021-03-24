@@ -11,6 +11,7 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 70px;
+	font-size: 16px;
 }
 
 figcaption {
@@ -91,3 +92,54 @@ firstp {
     margin-right: 30px;
 }
 
+.matr {
+   //background-color:#b0e0e678;
+   //font-family:"Product Sans";
+   //font-weight:bold;
+   font-style:normal;
+   //color:#af0c15b8;
+   color:#bb0000aa;
+}
+.eml {
+   color:#158CBA;
+}
+
+.hometitle {
+   //font-family:"Helvetica";
+}
+
+.largerfont {
+   font-size: 18px;
+}
+
+.largefont {
+   font-size: 17px;
+}
+
+.homewords {
+   //font-family:"Garamond";
+   font-size: 17px;
+   //text-align: justify;
+   //-webkit-hyphens: auto;
+   //-moz-hyphens: auto;
+   //hyphens: auto;
+   margin-top: -12px;
+   margin-bottom: 32px;
+}
+
+.homewords p {
+   //margin-top: 10px;
+   margin-bottom: 16px;
+}
+
+.rblock {
+   margin-top: -18px;
+}
+
+.bluewords {
+   color:#158CBA;
+}
+
+.redwords {
+   color:#bb0000aa;
+}
