@@ -9,8 +9,7 @@ permalink: /joinus
 ## Future Members
 
 <div class="largefont">
-We are looking for new Ph.D. students, Postdocs, Master students and undergraduate students to join our Group.
-Collaborators are not limited to students who have enrolled in Tsinghua University. 
+We have multiple opennings for new Ph.D. students, Postdocs, Master students and undergraduate students to join our Group. Our group is well funded. Collaborators are not limited to students who have enrolled in Tsinghua University. 
 </div>
 
 ### A letter to future members: 
