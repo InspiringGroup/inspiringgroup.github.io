@@ -6,7 +6,7 @@ sitemap: false
 permalink: /joinus
 ---
 
-## Future members
+## Future Members
 
 <div class="largefont">
 We are looking for new Ph.D. students, Postdocs, Master students and undergraduate students to join our Group.
