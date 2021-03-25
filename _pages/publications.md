@@ -11,7 +11,7 @@ permalink: /publications/
 ### Group highlights
 
 <div class="largefont">
-(For a full list go to [Google Scholar](https://scholar.google.com/citations?user=F8gi4rcAAAAJ&hl=en) or see a selected list [below](#selected-publications))
+(The following are our research highlights. For a full publication list, please visit [DBLP](https://dblp.org/pid/69/11514.html))
 </div>
 
 {% assign number_printed = 0 %}
