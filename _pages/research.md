@@ -9,7 +9,7 @@ permalink: /research/
 ## Research
 
 <div class="largefont">
-The InspiringGroup is working in all areas of systems and networking, with special interests in <span class="bluewords">security & privacy</span>, <span class="bluewords">architectural disruptions</span>, and <span class="bluewords">next-generation infrastructures</span>. We have published papers in top-tier venues and journals, covering *Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. 
+The InspiringGroup is working in all areas of systems and networking, with special interests in <span class="bluewords">security & privacy</span>, <span class="bluewords">architectural disruptions</span>, and <span class="bluewords">next-generation infrastructures</span>. We have published papers in top-tier venues and journals, covering *Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. See our [[Publication page]](./publication) for more detail.
 </div>
 
 ---
@@ -17,7 +17,7 @@ The InspiringGroup is working in all areas of systems and networking, with speci
 ### Ongoing Research Projects
 
 <div class="largefont">
-My current research is centering around the following theme: <span class="bluewords">Secure, Intelligent, and Practical Designs and Implementations for Large-Scale Distributed Systems</span>. The following are some concrete research directions for this theme. 
+Our current research is centering around the following theme: <span class="bluewords">Secure, Intelligent, and Practical Designs and Implementations for Large-Scale Distributed Systems</span>. The following are some concrete research directions.
 </div>
 <br />
 
@@ -62,6 +62,8 @@ Blockchain is the fundamental infrastructure of the next-generation trust-based 
   * Data-driven security policy design for large-scale and heterogeneous systems. 
 
   * Systems to empower and secure Machine Learning innovations and applications. 
+
+  * Machine learning security. 
 </div>
 </div>
 <br />
@@ -137,3 +139,9 @@ The following are prior projects that have shown substantial impacts on either a
 </div>
 <br />
 
+### Other Research Projects
+
+<div class="largefont">
+Over the past few years, we have also worked on projects involving Programming Languages, High-perfomance Storage Systems, Database Systems, etc. We are extremely excited about interdisciplinarity research because that is where creativity and disruptive initiatives come from. 
+</div>
+<br />
