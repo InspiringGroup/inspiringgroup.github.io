@@ -17,7 +17,7 @@ We have multiple opennings for new Ph.D. students, Postdocs, Master students and
 <div class="largefont">
 Pursuing a degree or solving scientific problems may require years of commitment. Thus, I truly believe that building a great working culture is the most important thing in our group, definitely more important than publications themselves. In fact, one of the secret sauces for Google’s decade-long success is its culture. 
 
-At [InspiringGroup](.), we strive to build a unique working culture: 
+At [InspiringGroup](.), we strive to build a unique working culture that is: 
 
 * **Friendly:** treating every member with mutual respects is the minimal requirement. At InspiringGroup, we, including myself, are all friends. 
 
