@@ -139,6 +139,8 @@ The following are prior projects that have shown substantial impacts on either a
 </div>
 <br />
 
+---
+
 ### Other Research Projects
 
 <div class="largefont">
