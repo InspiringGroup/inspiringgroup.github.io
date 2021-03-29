@@ -144,6 +144,6 @@ The following are prior projects that have shown substantial impacts on either a
 ### Other Research Projects
 
 <div class="largefont">
-Over the past few years, we have also worked on projects involving Programming Languages, High-perfomance Storage Systems, Database Systems, etc. We are extremely excited about interdisciplinarity research because that is where creativity and disruptive initiatives come from. 
+Over the past few years, we have also worked on projects involving Programming Languages, High-perfomance Storage Systems, Database Systems, etc. **We are extremely excited about interdisciplinarity research because that is where creativity and disruptive initiatives come from**. 
 </div>
 <br />
