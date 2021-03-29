@@ -9,9 +9,10 @@ permalink: /research/
 ## Research
 
 <div class="largefont">
-The InspiringGroup is working in all areas of systems and networking, with special interests in <span class="bluewords">next-generation infrastructures</span>, <span class="bluewords">security & privacy</span>, and <span class="bluewords">architectural disruptions</span>. We have published papers in top-tier venues and journals, covering *Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. See our [Publications](./publications) for more detail.
+The InspiringGroup is working in all areas of systems and networking, with special interests in <span class="bluewords">next-generation infrastructures</span>, <span class="bluewords">security & privacy</span>, and <span class="bluewords">architectural disruptions</span>. We have published papers in top-tier venues and journals, covering *Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. 
 </div>
 
+See our [Publications](./publications) for more detail.
 ---
 
 ### Ongoing Research Projects
