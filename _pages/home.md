@@ -12,7 +12,7 @@ permalink: /
 
 The [InspiringGroup](.) is a dynamic research group here @ [Tsinghua University](https://www.tsinghua.edu.cn/). We are working in all areas of systems and networking, with special interests in **security & privacy**, **architectural disruptions**, **and next-generation infrastructures**. We have published papers in top-tier venues and journals, covering *Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. See our [Research](./research) for more details.  
 
-Our overarching research goal is to advance the state of infrastructures and systems to power the ever-changing real world applications. Thus, one of our primary research goals is to impact industry deployment via highly-disruptive initiatives and tightly-coupled industry collaborations. 
+Our overarching research goal is to advance the state of infrastructures and systems to empower the ever-changing real world applications. Thus, one of our primary research goals is to impact industry deployment via highly-disruptive initiatives and tightly-coupled industry collaborations. 
 
 The InspiringGroup is led by Principal Investigator (PI), [Dr. Zhuotao Liu](https://zliuinspire.github.io/), who has a strong track-record in both academia and industry. Dr. Liu received his Ph.D. from University of Illinois at Urbana-Champaign in 2017 and worked at Google as a Technical Lead in both the NetInfra (Network Infrastructure) and GGN (Google Global Networking) team.  
 
