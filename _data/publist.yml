@@ -11,16 +11,29 @@
 #   slides: 
 #   codes: 
 
+- title: "Make Web3.0 Connected"
+  conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
+  authors: <span class="matr">Zhuotao Liu</span>, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, Yih-Chun Hu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  codes: 
+
 - title: "Efficient Forwarding Anomaly Detection in Software-Defined Networks"
   conference: IEEE Transactions on Parallel and Distributed Systems (TPDS) 2021
-  authors: Qi Li, Yunpeng Liu, <span class="matr">Zhuotao Liu(corresponding author)</span>, Peng Zhang, Chunhui Pang
+  authors: Qi Li, Yunpeng Liu, <span class="matr">Zhuotao Liu (corresponding author)</span>, Peng Zhang, Chunhui Pang
   image: datacenter_networking.png
   description:
   highlight: 1
   news1:
   news2:
   pdf: 
-  doi: 
+  doi: https://ieeexplore.ieee.org/document/9387572
   slides: 
   codes: 
 
