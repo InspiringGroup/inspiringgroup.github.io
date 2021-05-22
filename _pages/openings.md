@@ -25,7 +25,7 @@ At [InspiringGroup](.), we strive to build a unique working culture that is:
 
 * **Flourishing:** ultimately, I hope every group member will be flourishing, becoming not only academically successful, but also more mature and well-prepared as a person.
  
-If you are willing to explore new things and work with a group of compassionate people (or you just want to learn how to apply for Top Universities and Companies aboard), feel free to shoot [[me]](./team) an email. 
+If you are willing to explore new things and work with a group of compassionate people (or you just want to learn how to apply for Top Universities and Companies abroad), feel free to shoot [[me]](./team) an email. 
 </div>
 
 <br />
