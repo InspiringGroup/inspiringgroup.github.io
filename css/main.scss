@@ -143,3 +143,20 @@ firstp {
 .redwords {
    color:#bb0000aa;
 }
+
+.bottomnews {
+    //position: absolute;
+    //left: 0;
+    //bottom: 0;
+    //align-self: flex-end;
+    display: inline-block;
+    vertical-align: bottom;
+    float: none;
+    margin: -2px;
+}
+
+.newstable {
+    display: flex;
+    align-items: flex-end;
+}
+
