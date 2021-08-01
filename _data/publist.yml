@@ -11,6 +11,19 @@
 #   slides: 
 #   codes: 
 
+- title: "Automated Multi-Tab Website Fingerprinting Attack"
+  conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
+  authors: Qilei Yin, <span class="matr">Zhuotao Liu</span>, Qi Li, Tao Wang, Qian Wang, Chao Shen, Yixiao Xu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  codes: 
+
 - title: "Make Web3.0 Connected"
   conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
   authors: <span class="matr">Zhuotao Liu</span>, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, Yih-Chun Hu
