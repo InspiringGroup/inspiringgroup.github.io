@@ -52,6 +52,19 @@ Blockchain is the fundamental infrastructure of the next-generation trust-based 
 </div>
 </div>
 <br />
+ 
+<div class="rblock">
+#### <b>Privacy Computing 
+
+<div class="largefont">
+  * Our team is fully committed to privacy computing, providing solutions to secure private and large-scale data. 
+  
+  * We work on various privacy computing techniques, including Federated Learning, Secure Multi-party Computation, secure enclaves (i.e., trusted execution environments), Zero-knowledge Proofs and Differential Privacy systems. 
+ 
+  * We are building and have built various industry-grade privacy computing systems.  
+</div>
+</div>
+<br />
 
 <div class="rblock">
 #### <b>Distributed Systems with Built-in (Artificial or Learned) Intelligence
@@ -64,19 +77,6 @@ Blockchain is the fundamental infrastructure of the next-generation trust-based 
   * Systems to empower and secure Machine Learning innovations and applications. 
 
   * Machine learning security. 
-</div>
-</div>
-<br />
-
-<div class="rblock">
-#### <b>Disruptive Initiatives to Shape Industry Battlegrounds 
-
-<div class="largefont">
-  * Root research proposals into societal problems such as data ownership and privacy invasion. 
-
-  * Position research deliveries as industry market differentiators. 
-
-  * Lead research initiatives that are visible and impactful to industry.
 </div>
 </div>
 
