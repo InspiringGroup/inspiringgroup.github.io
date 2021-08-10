@@ -35,6 +35,19 @@ The full stack of our technology is evolving drastically to empower various appl
 </div>
 </div>
 <br />
+ 
+<div class="rblock">
+#### <b>Privacy Computing 
+
+<div class="largefont">
+  * Our team is fully committed to privacy computing, providing solutions to secure private and large-scale data. 
+  
+  * We work on various privacy computing techniques, including Federated Learning, Secure Multi-party Computation, secure enclaves (i.e., trusted execution environments), Zero-knowledge Proofs, and Differential Privacy systems. 
+ 
+  * We are building and have built various industry-grade privacy computing systems.  
+</div>
+</div>
+<br />
 
 <div class="rblock">
 #### <b>Blockchain-Assisted Secure Infrastructures
@@ -52,19 +65,7 @@ Blockchain is the fundamental infrastructure of the next-generation trust-based 
 </div>
 </div>
 <br />
- 
-<div class="rblock">
-#### <b>Privacy Computing 
 
-<div class="largefont">
-  * Our team is fully committed to privacy computing, providing solutions to secure private and large-scale data. 
-  
-  * We work on various privacy computing techniques, including Federated Learning, Secure Multi-party Computation, secure enclaves (i.e., trusted execution environments), Zero-knowledge Proofs and Differential Privacy systems. 
- 
-  * We are building and have built various industry-grade privacy computing systems.  
-</div>
-</div>
-<br />
 
 <div class="rblock">
 #### <b>Distributed Systems with Built-in (Artificial or Learned) Intelligence
