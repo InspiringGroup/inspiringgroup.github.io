@@ -19,9 +19,10 @@
   desc3: "Managing multi-tenancy and routing control in public Cloud: INFOCOM’18, TPDS’19, TPDS’21, One U.S. Patent, Product adoption by NEC, Acknowledgement by Huawei and Google."
 
 
-- name: Systems Security
+- name: Systems and ML Security
   image: system_security.png
-  number_desc: 3
+  number_desc: 4
   desc1: "Vulnerability discovery for large-scale RPC systems: ASIACCS’21, Adoption by Ant Group."
-  desc2: "Advanced Persistent Threat: CCS’19."
-  desc3: "Searchable Symmetric Encryption: TIFS’20."
+  desc2: "Advanced Persistent Threat: CCS’19, Security' 22"
+  desc3: "Adversarial attack against graph neural networks: CCS’21."
+  desc4: "Searchable Symmetric Encryption: TIFS’20."
