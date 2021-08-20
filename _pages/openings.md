@@ -31,7 +31,7 @@ If you are willing to explore new things and work with a group of compassionate 
 ### A second letter to applicants: 
 
 <div class="largefont">
-Due to the limitation of quotas on degree-earning Ph.D./master students, I cannot include each of the outstanding applicants as my graduate students here at Tsinghua. Yet, I maintain mutliple research groups with both Tsinghua and non-Tsinghua students on various topics. If you want to join these groups, also shoot [[me]](./team) an email. 
+Due to the limitation of quotas on degree-earning Ph.D./master students, I cannot include each of the outstanding applicants as my graduate students here at Tsinghua. Yet, I maintain mutliple research groups with both Tsinghua and non-Tsinghua students on each of the topics I listed [here](./research). If you want to join these groups, also shoot [[me]](./team) an email. 
 </div>
 
 
