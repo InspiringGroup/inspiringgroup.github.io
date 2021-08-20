@@ -9,7 +9,7 @@ permalink: /joinus
 ## Future Members
 
 <div class="largefont">
-We have multiple opennings for new Ph.D. students, Postdocs, Master students and undergraduate students to join our Group. Our group is well funded. Collaborators are not limited to students who have enrolled in Tsinghua University. 
+We have multiple opennings for new Ph.D. students, Postdocs, Master students and undergraduate students to join our Group. Our group is well funded. 
 </div>
 
 ### A letter to future members: 
@@ -27,5 +27,12 @@ At [InspiringGroup](.), we strive to build a unique working culture that is:
  
 If you are willing to explore new things and work with a group of compassionate people (or you just want to learn how to apply for Top Universities and Companies abroad), feel free to shoot [[me]](./team) an email. 
 </div>
+
+### A second letter to applicants: 
+
+<div class="largefont">
+Due to the limitation of quotas on degree-earning Ph.D./master students, I cannot include each of the outstanding applicants as my graduate students here at Tsinghua. Yet, I maintain mutliple research groups with both Tsinghua and non-Tsinghua students on various topics. If you want to join these groups, also shoot [[me]](./team) an email. 
+</div>
+
 
 <br />
