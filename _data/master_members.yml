@@ -8,10 +8,18 @@
 #  education3:
 #  education4:
 
-- name: Sainan Li
-  photo: daizhang.jpeg
-  info: Master Student, co-advised with Prof. Qi Li
-  email: zhangdai.zedd@gmail.com
+#- name: Sainan Li
+#  photo: daizhang.jpeg
+#  info: Master Student, co-advised with Prof. Qi Li
+#  email: zhangdai.zedd@gmail.com
+#  number_educ: 1
+#  education1: B.E. in Computer Science and Technology, Tsinghua University (THU)
+
+- name: Xuanqi Liu
+  photo: liuxuanqi.jpeg
+  info: Master Student
+  #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
   number_educ: 1
   education1: B.E. in Computer Science and Technology, Tsinghua University (THU)
+
 
