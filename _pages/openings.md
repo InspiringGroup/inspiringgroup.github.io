@@ -34,5 +34,11 @@ If you are willing to explore new things and work with a group of compassionate 
 Due to the limitation of quotas on degree-earning Ph.D./master students, I cannot include each of the outstanding applicants as my graduate students here at Tsinghua. Yet, I maintain mutliple research groups with both Tsinghua and non-Tsinghua students on each of the topics I listed [here](./research). If you want to join these groups, also shoot [[me]](./team) an email to explicitly state your interests. 
 </div>
 
+### To Post-Doc Applicants: 
+
+<div class="largefont">
+Our group has unlimitted quotas for Post-Docs. Besides all the benefits provided by Tsinghua, our group will provide an additional 200,000 to 300,000 RMB annual compenstation to outstanding applicants. Feel free to send [[me]](./team) an email for subsequent discussions. 
+</div>
+
 
 <br />
