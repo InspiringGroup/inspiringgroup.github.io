@@ -37,7 +37,7 @@ Due to the limitation of quotas on degree-earning Ph.D./master students, I canno
 ### To Post-Doc Applicants: 
 
 <div class="largefont">
-Our group has unlimitted quotas for Post-Docs. Besides all the benefits provided by Tsinghua, our group will provide an additional 200,000 to 300,000 RMB annual compenstation to outstanding applicants. Feel free to send [[me]](./team) an email for subsequent discussions. 
+Our group has unlimitted quotas for Post-Docs. Besides all the benefits provided by Tsinghua, our group will provide an **additional 200,000 to 300,000 RMB annual compenstation** to outstanding applicants. Feel free to send [[me]](./team) an email for subsequent discussions. 
 </div>
 
 
