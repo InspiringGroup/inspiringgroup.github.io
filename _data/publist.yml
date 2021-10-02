@@ -11,6 +11,46 @@
 #   slides: 
 #   codes: 
 
+# todo: 1 ccs, 1 security, 1 acsac
+- title: "Back-Propagating System Dependency Impact for Attack Investigation"
+  conference: USENIX Security Symposium (SEC) 2021
+  authors: Pengcheng Fang, Peng Gao, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Tanfang (Fanny) Ye, <span class="matr">Zhuotao Liu</span>, Xusheng Xiao
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  codes: 
+
+- title: "On Detecting Growing-Up Behaviors of Malicious Accounts in Privacy-Centric Mobile Social Networks"
+  conference: ACM Annual Computer Security Applications Conference (ACSAC) 2021
+  authors: Zijie Yang, Binghui Wang, Haoran Li, Dong Yuan, <span class="matr">Zhuotao Liu</span>, Neil Zhenqiang Gong, Chang Liu, Qi Li, Xiao Liang, Shaofeng Hu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  codes: 
+
+- title: "A Hard Label Black-box Adversarial Attack Against Graph Neural Networks"
+  conference: ACM Conference on Computer and Communications Security (CCS) 2021
+  authors: Jiaming Mu, Binghui Wang, Qi Li, Kun Sun, Mingwei Xu, <span class="matr">Zhuotao Liu</span>
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  codes: 
+
 - title: "Automated Multi-Tab Website Fingerprinting Attack"
   conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
   authors: Qilei Yin, <span class="matr">Zhuotao Liu</span>, Qi Li, Tao Wang, Qian Wang, Chao Shen, Yixiao Xu
