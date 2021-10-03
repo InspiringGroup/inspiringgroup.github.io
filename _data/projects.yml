@@ -18,7 +18,6 @@
   desc2: "World’s first production-grade automated management plane: leading author and under review, Google Feats of Engineering Award for WAN Capacity Augment."
   desc3: "Managing multi-tenancy and routing control in public Cloud: INFOCOM’18, TPDS’19, TPDS’21, One U.S. Patent, Product adoption by NEC, Acknowledgement by Huawei and Google."
 
-
 - name: Systems and ML Security
   image: system_security.png
   number_desc: 5

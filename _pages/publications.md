@@ -50,6 +50,14 @@ permalink: /publications/
 	<li> {{ publi.desc3}} </li> 
 	<li> {{ publi.desc4}} </li> 
 	{% endif %}                        
+
+	{% if publi.number_desc == 5 %}   
+	<li> {{ publi.desc1}} </li> 
+	<li> {{ publi.desc2}} </li> 
+	<li> {{ publi.desc3}} </li> 
+	<li> {{ publi.desc4}} </li> 
+	<li> {{ publi.desc5}} </li> 
+	{% endif %}                        
   </ul>
  </div>
 </div>
