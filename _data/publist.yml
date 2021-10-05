@@ -11,7 +11,19 @@
 #   slides: 
 #   codes: 
 
-# todo: 1 ccs, 1 security, 1 acsac
+- title: "RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices"
+  conference: USENIX Security Symposium (Security) 2022
+  authors: Yi He, Zhenhua Zou, Kun Sun, <span class="matr">Zhuotao Liu</span>, Ke Xu, Qian Wang, Chao Shen, Zhi Wang, Qi Li
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  codes: 
+
 - title: "Back-Propagating System Dependency Impact for Attack Investigation"
   conference: USENIX Security Symposium (Security) 2022
   authors: Pengcheng Fang, Peng Gao, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Tanfang (Fanny) Ye, <span class="matr">Zhuotao Liu</span>, Xusheng Xiao
