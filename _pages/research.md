@@ -9,7 +9,7 @@ permalink: /research/
 ## Research
 
 <div class="largefont">
-The InspiringGroup is working in all areas of systems and networking, with special interests in <span class="bluewords">next-generation infrastructures</span>, <span class="bluewords">security & privacy</span>, and <span class="bluewords">architectural disruptions</span>. We have published papers in top-tier venues and journals, covering *Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. See our Publications for more detail.
+The InspiringGroup is working in all areas of systems and networking, with special interests in <span class="bluewords">next-generation infrastructures</span>, <span class="bluewords">security & privacy</span>, and <span class="bluewords">accountable and trust AI</span>. We have published papers in top-tier venues and journals, covering *Privacy Computing, Accountable and Trust AI, Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. See our Publications for more detail.
 </div>
 
 ---
@@ -42,9 +42,21 @@ The full stack of our technology is evolving drastically to empower various appl
 <div class="largefont">
   * Our team is fully committed to privacy computing, providing solutions to secure private and large-scale data. 
   
-  * We work on various privacy computing techniques, including Federated Learning, Secure Multi-party Computation, secure enclaves (i.e., trusted execution environments), Zero-knowledge Proofs, and Differential Privacy systems. 
+  * We work on various privacy computing techniques, including Federated Learning, Secure Multi-party Computation, Secure Enclaves (i.e., trusted execution environments), Zero-knowledge Proofs, and Differential Privacy systems. 
  
   * We are building and have built various industry-grade privacy computing systems.  
+</div>
+</div>
+<br />
+ 
+ <div class="rblock">
+#### <b>Accountable and Trust ML/AI Algorithms and Systems
+
+<div class="largefont">
+ AI/ML has fundementally shaped many aspects of our lives. Holding these algorithms accountable is therefore critical. 
+  * Data security, privacy and quality/value for trust AI/ML.
+ 
+  * Explainable or whitebox-able algorithms to enforce accountability in decision making.
 </div>
 </div>
 <br />
@@ -66,20 +78,18 @@ Blockchain is the fundamental infrastructure of the next-generation trust-based 
 </div>
 <br />
 
-
 <div class="rblock">
-#### <b>Distributed Systems with Built-in (Artificial or Learned) Intelligence
-
+#### <b>Applied ML/AI in Practical Distributed Systems
+ 
 <div class="largefont">
-  * Intelligent distributed system designs powered by machine learning and data analysis, covering architectural design, management, performance, and deployment.
+  * Systems with built-in artificial intelligence. 
 
   * Data-driven security policy design for large-scale and heterogeneous systems. 
 
   * Systems to empower and secure Machine Learning innovations and applications. 
-
-  * Machine learning security. 
 </div>
 </div>
+<br />
 
 ---
 
