@@ -212,6 +212,14 @@ The following is a subset of our rapidly growing team. We are continuously looki
 {% endif %}
 
 ---
+### Undergraduate Students
+<div class="row">
+<div class="col-sm-12 clearfix">
+We also work with a group of undergraduates at Tsinghua on SRT programs.
+</div>
+</div>
+
+---
 
 ### External Collaborators
 <div class="row">
