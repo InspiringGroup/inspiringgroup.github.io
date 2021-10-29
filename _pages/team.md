@@ -9,10 +9,8 @@ permalink: /team/
 ## Group Members
 
 <div class="largefont">
-We are looking for new PhD students, Postdocs, and Master students to join the team [(join us)]({{ site.url }}{{ site.baseurl }}/joinus) !
+The following is a subset of our rapidly growing team. We are continuously looking for new PhD students, Postdocs, and Master students to join the team [(join us)]({{ site.url }}{{ site.baseurl }}/joinus) !
 </div>
-
-Jump to [principal investigator](#principal-investigator), [Ph.D. students](#phd-students), [master students](#master-students), and [collaborators](#external-collaborators).
 
 ---
 
