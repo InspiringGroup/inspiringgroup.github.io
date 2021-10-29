@@ -54,6 +54,7 @@ The full stack of our technology is evolving drastically to empower various appl
 
 <div class="largefont">
  AI/ML has fundementally shaped many aspects of our lives. Holding these algorithms accountable is therefore critical. 
+ 
   * Data security, privacy and quality/value for trust AI/ML.
  
   * Explainable or whitebox-able algorithms to enforce accountability in decision making.
