@@ -212,10 +212,10 @@ The following is a subset of our rapidly growing team. We are continuously looki
 {% endif %}
 
 ---
-### Undergraduate Students
+### Undergraduate Students / External Interns
 <div class="row">
 <div class="col-sm-12 clearfix">
-We also work with a group of undergraduates at Tsinghua on SRT programs.
+We also work with a group of undergraduates at Tsinghua on Student Research Training (SRT) programs. External interns are welcome to participate in our weekly research meetings. 
 </div>
 </div>
 
