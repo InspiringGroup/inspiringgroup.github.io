@@ -16,6 +16,6 @@ Our overarching research goal is to advance the state of infrastructures and sys
 
 The InspiringGroup is led by Principal Investigator (PI), [Dr. Zhuotao Liu](./team), who has a strong track-record in both academia and industry. Dr. Liu received his Ph.D. from University of Illinois at Urbana-Champaign (UIUC) and worked at Google as a Technical Lead in both the NetInfra (Network Infrastructure) and GGN (Google Global Networking) team.  
 
-<span class="">**We are looking for new Ph.D. students, Postdocs, Master students and undergraduate students to join our team**</span>. Here at InspiringGroup, we strive to build a friendly, supportive, and flourishing culture, and to make your experiences at InspiringGroup full of “Wow Moments”. See [Future Students](./joinus). 
+<span class="">**We are looking for new Ph.D. students, Postdocs, Master students, undergraduate students and external interns to join our team**</span>. Here at InspiringGroup, we strive to build a friendly, supportive, and flourishing culture, and to make your experiences at InspiringGroup full of “Wow Moments”. See [Future Students](./joinus). 
 
 </div>
