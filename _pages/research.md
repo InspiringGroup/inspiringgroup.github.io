@@ -16,10 +16,6 @@ The InspiringGroup is working in all areas of systems and networking, with speci
 
 ### Ongoing Research Projects
 
-<div class="largefont">
-Our current research is centering around the following theme: <span class="bluewords">Secure, Intelligent, and Practical Designs and Implementations for Large-Scale Distributed Systems</span>. The following are some concrete research directions.
-</div>
-<br />
 
 <div class="rblock">
 #### <b>Next-Generation Networking Infrastructures
