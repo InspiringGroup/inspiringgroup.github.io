@@ -16,6 +16,7 @@ The InspiringGroup is working in all areas of systems and networking, with speci
 
 ### Ongoing Research Projects
 
+<br />
 
 <div class="rblock">
 #### <b>Next-Generation Networking Infrastructures
