@@ -35,7 +35,7 @@
   pdf: 
   doi:
   slides: 
-  code: 
+  code: https://github.com/usenixsub/DepImpact
 
 - title: "On Detecting Growing-Up Behaviors of Malicious Accounts in Privacy-Centric Mobile Social Networks"
   conference: ACM Annual Computer Security Applications Conference (ACSAC) 2021
@@ -72,7 +72,7 @@
   news1:
   news2:
   pdf: 
-  doi:
+  doi: https://ieeexplore.ieee.org/document/9514394
   slides: 
   code: 
 
@@ -85,9 +85,9 @@
   news1:
   news2:
   pdf: 
-  doi:
+  doi: https://ieeexplore.ieee.org/document/9428608
   slides: 
-  code: 
+  code: https://github.com/HyperService-Consortium
 
 - title: "Efficient Forwarding Anomaly Detection in Software-Defined Networks"
   conference: IEEE Transactions on Parallel and Distributed Systems (TPDS) 2021
