@@ -100,7 +100,7 @@
   pdf: 
   doi: https://ieeexplore.ieee.org/document/9387572
   slides: 
-  code: 
+  code: https://github.com/chunhui-pang/fade
 
 - title: "Privilege-Escalation Vulnerability Discovery for Large-scale RPC Services: Principle, Design, and Deployment"
   conference: ACM Asia Conference on Computer and Communications Security (Asia CCS) 2021
@@ -112,7 +112,7 @@
   news2:
   pdf: 
   doi: 
-  slides: 
+  slides: https://zliuinspire.github.io/files/PAIR_Slides.pdf
   code: 
 
 - title: "SAP-SSE: Protecting Search Patterns and Access Patterns in Searchable Symmetric Encryption"
@@ -251,7 +251,7 @@
   authors: <span class="matr">Zhuotao Liu</span>, Yushan Liu, Philipp Winter, Prateek Mittal, Yih-Chun Hu
   image:
   description:
-  highlight: 
+  highlight: 1
   news1:
   news2:
   pdf: https://arxiv.org/abs/1708.08162
