@@ -94,7 +94,7 @@ permalink: /publications/
   <a href="{{ publi.slides }}">[slides]</a>
   {% endif %}
   {%- if publi.codes != nil -%}
-  <a href="{{ publi.codes }}">[codes]</a>
+  <a href="{{ publi.code }}">[codes]</a>
   {% endif %}
   {%- if publi.patent != nil -%}
   <a href="{{ publi.patent }}">[patent]</a>
