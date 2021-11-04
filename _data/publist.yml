@@ -61,7 +61,7 @@
   pdf: 
   doi:
   slides: 
-  codes: 
+  codes: https://github.com/mujm/CCS21_GNNattack/tree/master
 
 - title: "Automated Multi-Tab Website Fingerprinting Attack"
   conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
