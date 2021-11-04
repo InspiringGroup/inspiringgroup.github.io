@@ -93,7 +93,7 @@ permalink: /publications/
   {%- if publi.slides != nil -%}
   <a href="{{ publi.slides }}">[slides]</a>
   {% endif %}
-  {%- if publi.codes != nil -%}
+  {%- if publi.code != nil -%}
   <a href="{{ publi.code }}">[codes]</a>
   {% endif %}
   {%- if publi.patent != nil -%}
