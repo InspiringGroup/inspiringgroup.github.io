@@ -9,7 +9,7 @@
 #   pdf: 
 #   doi: 
 #   slides: 
-#   codes: 
+#   code: 
 
 - title: "RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices"
   conference: USENIX Security Symposium (Security) 2022
@@ -22,7 +22,7 @@
   pdf: 
   doi:
   slides: 
-  codes: 
+  code: 
 
 - title: "Back-Propagating System Dependency Impact for Attack Investigation"
   conference: USENIX Security Symposium (Security) 2022
@@ -35,7 +35,7 @@
   pdf: 
   doi:
   slides: 
-  codes: 
+  code: 
 
 - title: "On Detecting Growing-Up Behaviors of Malicious Accounts in Privacy-Centric Mobile Social Networks"
   conference: ACM Annual Computer Security Applications Conference (ACSAC) 2021
@@ -48,7 +48,7 @@
   pdf: 
   doi:
   slides: 
-  codes: 
+  code: 
 
 - title: "A Hard Label Black-box Adversarial Attack Against Graph Neural Networks"
   conference: ACM Conference on Computer and Communications Security (CCS) 2021
@@ -61,7 +61,7 @@
   pdf: 
   doi:
   slides: 
-  codes: https://github.com/mujm/CCS21_GNNattack/tree/master
+  code: https://github.com/mujm/CCS21_GNNattack/tree/master
 
 - title: "Automated Multi-Tab Website Fingerprinting Attack"
   conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
@@ -74,7 +74,7 @@
   pdf: 
   doi:
   slides: 
-  codes: 
+  code: 
 
 - title: "Make Web3.0 Connected"
   conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
@@ -87,7 +87,7 @@
   pdf: 
   doi:
   slides: 
-  codes: 
+  code: 
 
 - title: "Efficient Forwarding Anomaly Detection in Software-Defined Networks"
   conference: IEEE Transactions on Parallel and Distributed Systems (TPDS) 2021
@@ -100,7 +100,7 @@
   pdf: 
   doi: https://ieeexplore.ieee.org/document/9387572
   slides: 
-  codes: 
+  code: 
 
 - title: "Privilege-Escalation Vulnerability Discovery for Large-scale RPC Services: Principle, Design, and Deployment"
   conference: ACM Asia Conference on Computer and Communications Security (Asia CCS) 2021
@@ -113,7 +113,7 @@
   pdf: 
   doi: 
   slides: 
-  codes: 
+  code: 
 
 - title: "SAP-SSE: Protecting Search Patterns and Access Patterns in Searchable Symmetric Encryption"
   conference: IEEE Transactions on Information Forensics and Security (TIFS) 2020
@@ -126,7 +126,7 @@
   pdf: 
   doi: https://ieeexplore.ieee.org/abstract/document/9276436
   slides: 
-  codes: 
+  code: 
 
 - title: "Toward Blockchain-Powered Trusted Collaborative Services for Edge-Centric Networks"
   conference: IEEE Network 2020
@@ -139,7 +139,7 @@
   pdf: 
   doi: https://ieeexplore.ieee.org/document/9055734
   slides: 
-  codes: 
+  code: 
 
 - title: "HyperService: Interoperability and Programmability Across Heterogeneous Blockchains"
   conference: ACM Conference on Computer and Communications Security (CCS) 2019
@@ -152,7 +152,7 @@
   pdf: https://eprint.iacr.org/2020/578.pdf
   doi: https://dl.acm.org/doi/10.1145/3319535.3355503
   slides: https://zliuinspire.github.io/files/HyperServiceSlides.pdf
-  codes: https://github.com/HyperService-Consortium
+  code: https://github.com/HyperService-Consortium
 
 - title: "DeepIntent: Deep Icon-Behavior Learning for Detecting Intention-Behavior Discrepancy in Mobile Apps"
   conference: ACM Conference on Computer and Communications Security (CCS) 2019
@@ -165,7 +165,7 @@
   pdf: 
   doi: https://dl.acm.org/doi/10.1145/3319535.3363193
   slides: 
-  codes: https://github.com/deepintent-ccs/DeepIntent/
+  code: https://github.com/deepintent-ccs/DeepIntent/
   
 - title: "Managing Recurrent Virtual Network Updates in Multi-Tenant Datacenters: A System Perspective"
   conference: IEEE Transactions on Parallel and Distributed Systems (TPDS) (2019)
@@ -178,7 +178,7 @@
   pdf: https://zliuinspire.github.io/files/OpReduce.pdf
   doi: https://ieeexplore.ieee.org/document/8613794
   slides: 
-  codes: 
+  code: 
   patent: https://patents.google.com/patent/US9813301B2/en
 
 - title: "SmartCrowd: Decentralized and Automated Incentives for Distributed IoT System Detection"
@@ -192,7 +192,7 @@
   pdf: 
   doi: https://ieeexplore.ieee.org/document/8884853
   slides: 
-  codes: 
+  code: 
 
 - title: "Umbrella: Enabling ISPs to Offer Readily Deployable and Privacy-Preserving DDoS Prevention Services"
   conference: IEEE Transactions on Information Forensics and Security (TIFS) 2018
@@ -205,7 +205,7 @@
   pdf: https://arxiv.org/abs/1903.07796
   doi: https://ieeexplore.ieee.org/document/8466917
   slides: 
-  codes: https://github.com/zliuInspire/MiddlePolice
+  code: https://github.com/zliuInspire/MiddlePolice
 
 - title: "Practical Proactive DDoS-Attack Mitigation via Endpoint-Driven In-Network Traffic Control"
   conference: IEEE/ACM Transactions on Networking (TON) 2018
@@ -218,7 +218,7 @@
   pdf: https://zliuinspire.github.io/files/MiddlePoliceTon.pdf
   doi: https://ieeexplore.ieee.org/document/8418343
   slides: 
-  codes: https://github.com/zliuInspire/MiddlePolice
+  code: https://github.com/zliuInspire/MiddlePolice
 
 - title: "Enabling Work-Conserving Bandwidth Guarantees for Multi-Tenant Datacenters via Dynamic Tenant-Queue Binding"
   conference: IEEE Conference on Computer Communications (INFOCOM) 2018
@@ -231,7 +231,7 @@
   pdf: https://arxiv.org/abs/1712.06766
   doi: https://ieeexplore.ieee.org/document/8486219
   slides: 
-  codes: 
+  code: 
 
 - title: "Enabling Efficient Source and Path Verification via Probabilistic Packet Marking"
   conference: IEEE/ACM International Symposium on Quality of Service (IWQoS) 2018
@@ -244,7 +244,7 @@
   pdf: 
   doi: https://ieeexplore.ieee.org/document/8624169
   slides: 
-  codes: 
+  code: 
 
 - title: "TorPolice: Towards Enforcing Service-defined Access Policies for Anonymous Communication in the Tor Network"
   conference: IEEE International Conference on Network Protocols (ICNP) 2017
@@ -257,7 +257,7 @@
   pdf: https://arxiv.org/abs/1708.08162
   doi: https://ieeexplore.ieee.org/document/8117564
   slides: 
-  codes: 
+  code: 
 
 - title: "MiddlePolice: Toward Enforcing Destination-Defined Policies in the Middle of the Internet"
   conference: ACM Conference on Computer and Communications Security (CCS) 2016
@@ -270,5 +270,5 @@
   pdf: https://arxiv.org/abs/1709.05710
   doi: https://dl.acm.org/doi/10.1145/2976749.2978306
   slides: 
-  codes: https://github.com/zliuInspire/MiddlePolice
+  code: https://github.com/zliuInspire/MiddlePolice
 
