@@ -36,3 +36,9 @@
   number_educ: 1
   education1: B.E. in Computer Science and Technology, Beijing University of Aeronautics and Astronauticss(BUAA)
 
+- name: Yi He
+  photo: yihe.jpeg
+  info: Ph.D. Student, co-advised with Prof. Qi Li
+  #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
+  number_educ: 1
+  education1: B.E. in Computer Science, Wuhan University(WHU)
