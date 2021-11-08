@@ -14,7 +14,7 @@
   email: zhangdai [dot] zedd [at] gmail [dot] com
   number_educ: 2
   education1: Working on Applied ML in Distributed Systems and Networking 
-  education2: B.E. in Computer Science and Technology, Tsinghua University (THU)
+  education2: B.E. in Computer Science and Technology, Tsinghua University
 
 - name: Jiang Li
   photo: jiangli.jpeg
@@ -22,7 +22,7 @@
   email: lijiang17 [at] mails [dot] tsinghua [dot] edu [dot] cn
   number_educ: 2
   education1: Working on Next-gen Network Infra and Blockchains
-  education1: B.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT)
+  education1: B.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications
 
 - name: Zhenhua Zou
   photo: zhenhuazou.jpeg
@@ -30,7 +30,7 @@
   email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
   number_educ: 2
   education1: Working on Privacy Computing; Responsible/Trust AI
-  education2: B.E. in Computer Science and Technology, Tsinghua University (THU)
+  education2: B.E. in Computer Science and Technology, Tsinghua University
 
 - name: Jinzhu Yan
   photo: yanjinzhu.jpeg
@@ -38,7 +38,7 @@
   #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
   number_educ: 2
   education1: Working on Applied ML; Privacy Computing
-  education2: B.E. in Computer Science and Technology, Beihang University (BUAA)
+  education2: B.E. in Computer Science and Technology, Beihang University 
 
 - name: Yi He
   photo: yihe.jpeg
@@ -46,4 +46,4 @@
   #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
   number_educ: 2
   education1: Working on Systems Security
-  education2: B.E. in Computer Science, Wuhan University(WHU)
+  education2: B.E. in Computer Science, Wuhan University 
