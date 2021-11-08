@@ -12,34 +12,38 @@
   photo: daizhang.jpeg
   info: Ph.D. Student, co-advised with Prof. Mingwei Xu
   email: zhangdai [dot] zedd [at] gmail [dot] com
-  number_educ: 1
-  education1: Worked on Applied ML in Distributed Systems. 
+  number_educ: 2
+  education1: Working on Applied ML in Distributed Systems and Networking 
   education2: B.E. in Computer Science and Technology, Tsinghua University (THU)
 
 - name: Jiang Li
   photo: jiangli.jpeg
   info: Ph.D. Student, co-advised with Prof. Mingwei Xu
   email: lijiang17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 1
+  number_educ: 2
+  education1: Working on Next-gen Network Infra and Blockchains
   education1: B.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT)
 
 - name: Zhenhua Zou
   photo: zhenhuazou.jpeg
   info: Ph.D. Student
   email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 1
-  education1: B.E. in Computer Science and Technology, Tsinghua University (THU)
+  number_educ: 2
+  education1: Working on Privacy Computing; Responsible/Trust AI
+  education2: B.E. in Computer Science and Technology, Tsinghua University (THU)
 
 - name: Jinzhu Yan
   photo: yanjinzhu.jpeg
   info: Ph.D. Student
   #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 1
-  education1: B.E. in Computer Science and Technology, Beijing University of Aeronautics and Astronauticss(BUAA)
+  number_educ: 2
+  education1: Working on Applied ML; Privacy Computing
+  education2: B.E. in Computer Science and Technology, Beihang University (BUAA)
 
 - name: Yi He
   photo: yihe.jpeg
   info: Ph.D. Student, co-advised with Prof. Qi Li
   #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 1
-  education1: B.E. in Computer Science, Wuhan University(WHU)
+  number_educ: 2
+  education1: Working on Systems Security
+  education2: B.E. in Computer Science, Wuhan University(WHU)
