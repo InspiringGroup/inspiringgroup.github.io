@@ -65,11 +65,11 @@ The full stack of our technology is evolving drastically to empower various appl
 <div class="largefont">
 Blockchain is the fundamental infrastructure of the next-generation trust-based Web (the so-called Web3.0).  Web3.0 is often cited to shape every aspect of our lives:
 
-  * Understand the defining trait of Web3.0 to separate the Web3.0 with the so-called Web2.0 era. 
+  * Web3.0 or Metaverse.
 
-  * Define and advance the fundamental infrastructure enablers for a trust-based future Internet/Web. 
+  * Define and advance the fundamental infrastructure enablers for a trust-based future Internet/Web/Metaverse. 
 
-  * Build transparent and trustworthy computing and ground-breaking Web3.0 applications via Blockchain Consortium. 
+  * Build transparent and trustworthy computing and ground-breaking Web3.0/Metaverse applications. 
 
   * Build security and trust systems to empower new Internet architectural innovations and industry IoT systems. 
 </div>
