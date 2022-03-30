@@ -9,7 +9,7 @@ permalink: /research/
 ## Research
 
 <div class="largefont">
-The InspiringGroup is working in all areas of systems and networking, with special interests in <span class="bluewords">next-generation infrastructures</span>, <span class="bluewords">security & privacy</span>, and <span class="bluewords">accountable and trust AI</span>. We have published papers in top-tier venues and journals, covering *Privacy Computing, Accountable and Trust AI, Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. See our Publications for more detail.
+The wide range of research in InspiringGroup can be unified as data-centric systems and applications, where we strive to build next-generation infrastructures and data applications. We have published papers in top-tier venues and journals, covering *Privacy Computing, Accountable and Trust AI, Internet Architecture, Blockchain Infrastructure, Datacenter Networking, Advanced Persistent Threat, Machine Learning Systems, etc*. See our Publications for more detail.
 </div>
 
 ---
@@ -80,7 +80,7 @@ Blockchain is the fundamental infrastructure of the next-generation trust-based 
 #### <b>Applied ML/AI in Practical Distributed Systems
  
 <div class="largefont">
-  * Systems with built-in artificial intelligence. 
+  * Systems and networks with built-in artificial intelligence. 
 
   * Data-driven security policy design for large-scale and heterogeneous systems. 
 
