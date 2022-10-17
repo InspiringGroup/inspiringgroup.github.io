@@ -1,4 +1,6 @@
 - date: October 2023
+  headline: <b>[Invited Talks]</b> Invited to give talk on the 5th Huawei Forum on Trust and Privacy for the Future Digital World. Will give a talk titled "A Data-Centric View on Web3.0".
+- date: October 2023
   headline: <b>[Academic Services]</b> Invited to serve as the PC member for ICDCS 2023.
 - date: September 2023
   headline: <b>[ML Systems]</b> One work accepted by Usenix Security 2023, on an efficient design of Intelligent Network Dataplane (IDP) that natively enables ML-driven traffic analysis at line-speed. 
@@ -11,7 +13,7 @@
 - date: February 2022
   headline: <b>[Network Security]</b> Two works accepted by IEEE TIFS'22, on Network Virtual Functions and Learning-based Congestion Control, respectively. 
 - data: January 2022
-  headline: <b>[Academic Service]</b> Invited to serve as the PC member of ACM CCS 2022.
+  headline: <b>[Academic Services]</b> Invited to serve as the PC member of ACM CCS 2022.
 - date: January 2022
   headline: <b>[Network Security]</b> Two works accepted by IEEE TIFS'22, on Network Virtual Functions and Learning-based Congestion Control, respectively. 
 - date: December 2021
