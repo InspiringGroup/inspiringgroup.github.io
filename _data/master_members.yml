@@ -15,13 +15,6 @@
 #  number_educ: 1
 #  education1: B.E. in Computer Science and Technology, Tsinghua University (THU)
 
-- name: Xuanqi Liu
-  photo: liuxuanqi.jpeg
-  info: Master Student
-  #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
-  number_educ: 2
-  education1: Working on ML Systems; Privacy Computing
-  education2: B.E. in Computer Science and Technology, Tsinghua University (THU)
 - name: Qi Li
   photo: liqi.jpg
   info: Master Student
@@ -29,3 +22,18 @@
   number_educ: 2
   education1: Working on Privacy Computing; Blockchain
   education2: B.E. in Information Security, Beijing University of Posts and Telecommunications
+
+- name: Xuanqi Liu
+  photo: liuxuanqi.jpeg
+  info: Master Student
+  #email: zou-zh17 [at] mails [dot] tsinghua [dot] edu [dot] cn
+  number_educ: 2
+  education1: Working on ML Systems; Privacy Computing
+  education2: B.E. in Computer Science and Technology, Tsinghua University
+
+- name: Chenyang Li
+  photo: lichenyang.jpg
+  info: Master Student
+  number_educ: 2
+  education1: Working on Hardware Acceleration of Privacy Computing
+  education: B.E. in Electronic Engineering, Tsinghua University

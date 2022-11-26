@@ -40,6 +40,13 @@
   education1: Working on Applied ML; Privacy Computing
   education2: B.E. in Computer Science and Technology, Beihang University 
 
+- name: Haotian Xu
+  photo: xuhaotian.jpg
+  info: Ph.D. Student
+  number_educ: 2
+  education1: Working on ML in Network Devices
+  education2: B.E. in Computer Science and Technology, Tsinghua University
+
 - name: Yi He
   photo: yihe.jpeg
   info: Ph.D. Student, co-advised with Prof. Qi Li
