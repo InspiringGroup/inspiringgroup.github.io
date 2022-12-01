@@ -37,7 +37,7 @@
   slides: 
   code: 
  
- - title: "RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices"
+- title: "RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices"
   conference: USENIX Security Symposium (Security) 2022
   authors: Yi He, Zhenhua Zou, Kun Sun, <span class="matr">Zhuotao Liu</span>, Ke Xu, Qian Wang, Chao Shen, Zhi Wang, Qi Li
   image: 
@@ -89,7 +89,6 @@
   slides: 
   code: https://github.com/usenixsub/DepImpact
   
-  
 - title: "Automated Multi-Tab Website Fingerprinting Attack"
   conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2022
   authors: Qilei Yin, <span class="matr">Zhuotao Liu</span>, Qi Li, Tao Wang, Qian Wang, Chao Shen, Yixiao Xu
@@ -115,7 +114,7 @@
   doi: https://ieeexplore.ieee.org/document/9428608
   slides: 
   code: https://github.com/HyperService-Consortium
-
+  
 - title: "On Detecting Growing-Up Behaviors of Malicious Accounts in Privacy-Centric Mobile Social Networks"
   conference: ACM Annual Computer Security Applications Conference (ACSAC) 2021
   authors: Zijie Yang, Binghui Wang, Haoran Li, Dong Yuan, <span class="matr">Zhuotao Liu</span>, Neil Zhenqiang Gong, Chang Liu, Qi Li, Xiao Liang, Shaofeng Hu
@@ -158,7 +157,7 @@
 
 - title: "Privilege-Escalation Vulnerability Discovery for Large-scale RPC Services: Principle, Design, and Deployment"
   conference: ACM Asia Conference on Computer and Communications Security (Asia CCS) 2021
-  authors: <span class="matr">Zhuotao Liu</span>, Hao Zhao, <span class="matr">Sainan Li</span>, Qi Li, Tao Wei, Yu Wang
+  authors: <span class="matr">Zhuotao Liu</span>, Hao Zhao, Sainan Li, Qi Li, Tao Wei, Yu Wang
   image: system_security.png
   description:
   highlight: 1
@@ -325,4 +324,3 @@
   doi: https://dl.acm.org/doi/10.1145/2976749.2978306
   slides: 
   code: https://github.com/zliuInspire/MiddlePolice
-
