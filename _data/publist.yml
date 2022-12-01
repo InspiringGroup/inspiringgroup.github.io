@@ -11,9 +11,61 @@
 #   slides: 
 #   code: 
 
-- title: "RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices"
+- title: "An Efficient Design of Intelligent Network Data Plane"
+  conference: USENIX Security Symposium (Security) 2023
+  authors: Guangmeng Zhou, <span class="matr">Zhuotao Liu</span>, Chuanpu Fu, Qi Li, Ke Xu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
+
+- title: "FlowTele: Remotely Shaping Traffic on Internet-Scale Networks"
+  conference: ACM CoNext 2022
+  authors: Bo-Rong Chen; <span class="matr">Zhuotao Liu</span>; Jinhui Song, Fanhui Zeng, Zhoushi Zhu, Siva Phani Keshav Bachu, Yih-Chun Hu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
+ 
+ - title: "RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices"
   conference: USENIX Security Symposium (Security) 2022
   authors: Yi He, Zhenhua Zou, Kun Sun, <span class="matr">Zhuotao Liu</span>, Ke Xu, Qian Wang, Chao Shen, Zhi Wang, Qi Li
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
+  
+- title: "Unsupervised Contextual Anomaly Detection for Database Systems"
+  conference: ACM SIGMOD 2022
+  authors: Sainan Li, Qilei Yin, Guoliang Li, Qi Li, <span class="matr">Zhuotao Liu</span>, Jinwei Zhu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
+
+- title: "Dynamic Network Security Function Enforcement via Joint Flow and Function Scheduling"
+  conference: IEEE Transactions on Information Forensics and Security (TIFS) 2022
+  authors: Qi Li, Xinhao Deng, <span class="matr">Zhuotao Liu</span>, Yuan Yang, Xiaoyue Zou, Qian Wang, Mingwei Xu, Jianping Wu:
   image: 
   description:
   highlight: 
@@ -36,6 +88,33 @@
   doi:
   slides: 
   code: https://github.com/usenixsub/DepImpact
+  
+  
+- title: "Automated Multi-Tab Website Fingerprinting Attack"
+  conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2022
+  authors: Qilei Yin, <span class="matr">Zhuotao Liu</span>, Qi Li, Tao Wang, Qian Wang, Chao Shen, Yixiao Xu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi: https://ieeexplore.ieee.org/document/9514394
+  slides: 
+  code: 
+
+- title: "Make Web3.0 Connected"
+  conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2022
+  authors: <span class="matr">Zhuotao Liu</span>, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, Yih-Chun Hu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi: https://ieeexplore.ieee.org/document/9428608
+  slides: 
+  code: https://github.com/HyperService-Consortium
 
 - title: "On Detecting Growing-Up Behaviors of Malicious Accounts in Privacy-Centric Mobile Social Networks"
   conference: ACM Annual Computer Security Applications Conference (ACSAC) 2021
@@ -63,35 +142,10 @@
   slides: 
   code: https://github.com/mujm/CCS21_GNNattack/tree/master
 
-- title: "Automated Multi-Tab Website Fingerprinting Attack"
-  conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
-  authors: Qilei Yin, <span class="matr">Zhuotao Liu</span>, Qi Li, Tao Wang, Qian Wang, Chao Shen, Yixiao Xu
-  image: 
-  description:
-  highlight: 
-  news1:
-  news2:
-  pdf: 
-  doi: https://ieeexplore.ieee.org/document/9514394
-  slides: 
-  code: 
-
-- title: "Make Web3.0 Connected"
-  conference: IEEE Transactions on Dependable and Secure Computing (TDSC) 2021
-  authors: <span class="matr">Zhuotao Liu</span>, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Qi Li, Yih-Chun Hu
-  image: 
-  description:
-  highlight: 
-  news1:
-  news2:
-  pdf: 
-  doi: https://ieeexplore.ieee.org/document/9428608
-  slides: 
-  code: https://github.com/HyperService-Consortium
 
 - title: "Efficient Forwarding Anomaly Detection in Software-Defined Networks"
   conference: IEEE Transactions on Parallel and Distributed Systems (TPDS) 2021
-  authors: Qi Li, Yunpeng Liu, <span class="matr">Zhuotao Liu (corresponding author)</span>, Peng Zhang, Chunhui Pang
+  authors: Qi Li, Yunpeng Liu, <span class="matr">Zhuotao Liu</span>, Peng Zhang, Chunhui Pang
   image: datacenter_networking.png
   description:
   highlight: 1
