@@ -11,6 +11,32 @@
 #   slides: 
 #   code: 
 
+- title: "Robust Multi-tab Website Fingerprinting Attacks in the Wild"
+  conference: IEEE Symposium on Security and Privacy (Oakland) 2023
+  authors: Xinhao Deng, Qilei Yin, <span class="matr">Zhuotao Liu</span>, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
+
+- title: "Provenance of Training without Training Data: Towards Privacy-Preserving DNN Model Ownership Verification"
+  conference: International World Wide Web Conference (WWW) 2023
+  authors: Yunpeng Liu, Kexin Li, <span class="matr">Zhuotao Liu</span>, Bihan Wen, Ke Xu, Weiqiang Wang, Wenbiao Zhao, Qi Li
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
+
 - title: "An Efficient Design of Intelligent Network Data Plane"
   conference: USENIX Security Symposium (Security) 2023
   authors: Guangmeng Zhou, <span class="matr">Zhuotao Liu</span>, Chuanpu Fu, Qi Li, Ke Xu
