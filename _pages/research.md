@@ -22,13 +22,12 @@ The wide range of research in InspiringGroup can be unified as data-centric syst
 #### <b>Next-Generation Networking Infrastructures
 
 <div class="largefont">
-The full stack of our technology is evolving drastically to empower various applications. Infrastructures with tightly-coupled network, storage and computing resources are the future. Due to its distributed nature, we face a unique combination of challenges and opportunities in Networking Infrastructure:
 
-  * Embrace the flexibility of host networking to execute application-desired (and therefore highly specialized) traffic shaping logic, while imposing negligible overhead in network data-plane. 
-
-  * Embrace the advance of network hardwares (i.e., programmable switches, SmartNICs) to achieve performant and low-latency cluster networking. 
+  * Intelligent Network DataPlane (INDP): embrace the flexibility of programmable dataplane (e.g.,  programmable switches, SmartNICs, and host networking) to execute application-desired and data-driven traffic shaping/analysis logic, while imposing negligible overhead in network data-plane. 
 
   * Evolving the control-plane, data-plane, and management-plane for production-grade datacenter and WAN networks.  
+ 
+  * Secure inter domain routing in the Internet. 
 </div>
 </div>
 <br />
@@ -41,7 +40,7 @@ The full stack of our technology is evolving drastically to empower various appl
   
   * We work on various privacy computing techniques, including Federated Learning, Secure Multi-party Computation, Secure Enclaves (i.e., trusted execution environments), Zero-knowledge Proofs, and Differential Privacy systems. 
  
-  * We are building and have built various industry-grade privacy computing systems.  
+  * We are building and have built various industry-grade privacy computing systems, such as highly efficient privacy-preserving AI model training (including fine-tuning large models) over encrypted (or secret-shared) data. 
 </div>
 </div>
 <br />
@@ -50,11 +49,11 @@ The full stack of our technology is evolving drastically to empower various appl
 #### <b>Accountable and Trust ML/AI Algorithms and Systems
 
 <div class="largefont">
- AI/ML has fundementally shaped many aspects of our lives. Holding these algorithms accountable is therefore critical. 
+ AI/ML has fundementally shaped many aspects of our lives.  
  
-  * Data security, privacy and quality/value for trust AI/ML.
+  * The security, privacy and quality/value training data to enable trust AI/ML.
  
-  * Explainable or whitebox-able algorithms to enforce accountability in decision making.
+  * Prompt engineering (including adversarial prompt) for GPT and other LLMs. 
 </div>
 </div>
 <br />
