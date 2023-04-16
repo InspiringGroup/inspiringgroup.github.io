@@ -1,5 +1,7 @@
 - data: March ~ Sep 2023
-  headline: <b>[New Members]</b> InspringGroup has muliple Ph.D. and master opennings for 2024. Currently, we are looking for new members who are interested in 1) Privacy computing, e.g., fine-tuning LLMs with encrypted/private data; 2) Applied AI, e.g., adversarial prompt for LLMs; 3) Systems and Networking, e.g., secure Internet routing. Please email me to learn more. 
+  headline: <b>[New Members]</b> InspringGroup has muliple Ph.D. and master opennings for 2024. Currently, we are looking for new members who are interested in 1) Privacy computing, e.g., fine-tuning LLMs with encrypted/private data; 2) Applied AI in system designs; 3) Systems and Networking, e.g., secure Internet routing. Please email me to learn more. 
+- date: April 2023
+  headline: <b>[Datacenter Networking]</b> One paper on optical datacenter networking design is accepted by IEEE ToN 2023. 
 - date: March 2023
   headline: <b>[Applied AI]</b> One paper on multi-tab website fingerprinting attack (essentially analysis over encrypted network traffic) is accepted by IEEE S&P (Oakland) 2023. 
 - date: Feb 2023
