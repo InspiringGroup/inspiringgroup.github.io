@@ -11,6 +11,32 @@
 #   slides: 
 #   code: 
 
+- title: "iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements"
+  conference: ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2023
+  authors: Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, <span class="matr">Zhuotao Liu</span> 
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
+
+- title: "Change Management in Physical Network Lifecycle Automation"
+  conference: USENIX Annual Technical Conference (ATC) 2023
+  authors: Mohammad Al-Fares, Virginia Beauregard, Kevin Grant, Angus Griffith, Quan Leng, Alexander Lin, <span class="matr">Zhuotao Liu</span>, Bill Martinusen, Nikil Mehta, Jeffrey Mogul, Andrew Narver, Anshul Nigham, Sean Smith, Amin Vahdat
+  image: 
+  description:
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
+
 - title: "Robust Multi-tab Website Fingerprinting Attacks in the Wild"
   conference: IEEE Symposium on Security and Privacy (Oakland) 2023
   authors: Xinhao Deng, Qilei Yin, <span class="matr">Zhuotao Liu</span>, Xiyuan Zhao, Qi Li, Mingwei Xu, Ke Xu, Jianping Wu
