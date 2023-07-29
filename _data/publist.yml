@@ -11,6 +11,19 @@
 #   slides: 
 #   code: 
 
+- title: "<a href='/publications/llms'>LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformers</a>"
+  conference: Under review
+  authors: <span class="matr">Xuanqi Liu, Zhuotao Liu</span> 
+  image: 
+  description: 
+  highlight: 
+  news1:
+  news2:
+  pdf: https://arxiv.org/pdf/2305.18396
+  doi:
+  slides: 
+  code: 
+
 - title: "iSyn: Semi-Automated Smart Contract Synthesis from Legal Financial Agreements"
   conference: ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2023
   authors: Pengcheng Fang, Zhenhua Zou, Xusheng Xiao, <span class="matr">Zhuotao Liu</span> 
