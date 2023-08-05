@@ -1,5 +1,9 @@
 - data: March ~ Sep 2023
   headline: <b>[New Members]</b> InspringGroup has muliple Ph.D. and master opennings for 2024. Currently, we are looking for new members who are interested in 1) Privacy computing, e.g., fine-tuning LLMs with encrypted/private data; 2) Applied AI in system designs; 3) Systems and Networking, e.g., secure Internet routing. Please email me to learn more. 
+- date: July 2023
+  headline: <b>[Network Security]</b> One paper on encrypted traffic analysis is accepted by NDSS 2024. This work handles the challenging problem of obtaining robust models with low-quality training data.  
+- date: June 2023
+  headline: <b>[Systems Security]</b> One paper on contrainer security is accepted by USENIX Security 2023. This work reveals several key security issues for Cloud containers.  
 - date: May 2023
   headline: <b>[Web3.0 / Blockchain Infrastructure]</b> One paper on transforming the legal sector towards Web3.0-friendly by (semi-)automatically representing legal agreements as smart contracts on Blockchain is accepted by ACM ISSTA 2023. 
 - date: April 2023
