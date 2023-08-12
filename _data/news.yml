@@ -1,5 +1,7 @@
 - data: March ~ Sep 2023
   headline: <b>[New Members]</b> InspringGroup has muliple Ph.D. and master opennings for 2024. Currently, we are looking for new members who are interested in 1) Privacy computing, e.g., fine-tuning LLMs with encrypted/private data; 2) Applied AI in system designs; 3) Systems and Networking, e.g., secure Internet routing. Please email me to learn more. 
+- date: August 2023
+  headline: <b>[Network Security]</b> Our paper on Intelligent Network Data Plane wins the USENIX Security 2023 Distinguished Paper Award!   
 - date: July 2023
   headline: <b>[Network Security]</b> One paper on encrypted traffic analysis is accepted by NDSS 2024. This work handles the challenging problem of obtaining robust models with low-quality training data.  
 - date: June 2023
