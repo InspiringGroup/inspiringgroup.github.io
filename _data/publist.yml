@@ -24,7 +24,7 @@
   slides: 
   code: 
 
- - title: "Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic"
+- title: "Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic"
   conference: Network and Distributed System Security (NDSS) Symposium 2024
   authors: Yuqi Qing, Qilei Yin, Xinhao Deng, Yihao Chen, <span class="matr">Zhuotao Liu</span>, Kun Sun, Ke Xu, Jia Zhang, Qi Li
   image: 
