@@ -39,7 +39,7 @@
 
 - title: "Cross Container Attacks: The Bewildered eBPF on Clouds"
   conference: USENIX Security Symposium (Security) 2023
-  authors: Yi He, Roland Guo, Yunlong Xing, Xijia Che, Kun Sun, <span class="matr">Zhuotao Liu</span>, Ke Xu, Qi Li, Tsinghua University
+  authors: Yi He, Roland Guo, Yunlong Xing, Xijia Che, Kun Sun, <span class="matr">Zhuotao Liu</span>, Ke Xu, Qi Li
   image: 
   description: 
   highlight: 
