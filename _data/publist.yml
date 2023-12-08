@@ -49,6 +49,19 @@
   doi:
   slides: 
   code: 
+  
+- title: "Learning from Limited Heterogeneous Training Data: Meta-Learning for Unsupervised Zero-day Web Attack Detection across  Web Domains"
+  conference: ACM Conference on Computer and Communications Security (CCS) 2023
+  authors: Peiyang Li, Ye Wang, Qi Li, <span class="matr">Zhuotao Liu</span>, Ke Xu, Ju Ren, Zhiying Liu, Ruilin Lin
+  image: 
+  description: 
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi:
+  slides: 
+  code: 
 
 - title: "Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic"
   conference: Network and Distributed System Security (NDSS) Symposium 2024
