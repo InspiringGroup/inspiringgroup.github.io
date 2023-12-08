@@ -1,3 +1,5 @@
+- date: Dec 2023
+  headline: <b>[ML Systems]</b> Our paper on intelligent network dataplane (INDP) is accepted by Usenix NSDI 2024, This work features the most advanced IDNP design that enables nerual network driven traffic analysis at line-speed. 
 - date: Sep 2023
   headline: <b>[Privacy Computing]</b> Our paper on privacy-preserving machine learning is accepted by NDSS 2024. This work features multiple novel cryptography constructions to accelerate AI training / inference over encrypted data. 
 - date: Sep 2023
