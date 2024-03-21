@@ -46,7 +46,7 @@ The wide range of research in InspiringGroup can be unified as data-centric syst
  
 
 <div class="rblock">
-#### <b>Blockchain-Assisted Secur Infrastructures
+#### <b>Blockchain-Assisted Secure Infrastructures
 
 <div class="largefont">
 Blockchain is the fundamental infrastructure of the next-generation trust-based Web (the so-called Web3.0).  Web3.0 is often cited to shape every aspect of our lives:
