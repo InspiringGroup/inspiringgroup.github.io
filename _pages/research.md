@@ -18,72 +18,55 @@ The wide range of research in InspiringGroup can be unified as data-centric syst
 
 <br />
 
+ <div class="rblock">
+#### <b>Accountable and Trusted Large-scale ML/AI Algorithms and Systems
+
+<div class="largefont">
+ AI/ML is the most important data-driven application. In our team, we focus on solving some of the biggest open-problems in AI security and safety, including 
+ 
+  * The certified robustness of various AI systems: we've worked on understanding the fundementals of AI safety and security in open-world and adversarial deployment. 
+ 
+  * Data security and privacy in AI training, inference and model-service: we've worked on various techniques (such as privacy-preserving machine learning, federated learning, ZKP) to ensure data security and privacy in AI. 
+</div>
+</div>
+<br />
+
 <div class="rblock">
 #### <b>Next-Generation Networking Infrastructures
 
 <div class="largefont">
 
-  * Intelligent Network DataPlane (INDP): embrace the flexibility of programmable dataplane (e.g.,  programmable switches, SmartNICs, and host networking) to execute application-desired and data-driven traffic shaping/analysis logic, while imposing negligible overhead in network data-plane. 
+  * Intelligent Network DataPlane (INDP): Our team is the world leader in embracing the flexibility of programmable dataplane (e.g., programmable switches, SmartNICs, and host networking) to execute application-desired and data-driven traffic shaping/analysis logic, while imposing negligible overhead on the network data plane. 
 
-  * Evolving the control-plane, data-plane, and management-plane for production-grade datacenter and WAN networks.  
- 
-  * Secure inter domain routing in the Internet. 
+  * Evolving the control-plane, data-plane, and management-plane for production-grade datacenter and WAN networks to enable various high-performance workloads, such as LLM training across large-scale data centers.
+    
 </div>
 </div>
 <br />
  
-<div class="rblock">
-#### <b>Privacy Computing 
-
-<div class="largefont">
-  * Our team is fully committed to privacy computing, providing solutions to secure private and large-scale data. 
-  
-  * We work on various privacy computing techniques, including Federated Learning, Secure Multi-party Computation, Secure Enclaves (i.e., trusted execution environments), Zero-knowledge Proofs, and Differential Privacy systems. 
- 
-  * We are building and have built various industry-grade privacy computing systems, such as highly efficient privacy-preserving AI model training (including fine-tuning large models) over encrypted (or secret-shared) data. 
-</div>
-</div>
-<br />
- 
- <div class="rblock">
-#### <b>Accountable and Trust ML/AI Algorithms and Systems
-
-<div class="largefont">
- AI/ML has fundementally shaped many aspects of our lives.  
- 
-  * The security, privacy and quality/value training data to enable trust AI/ML.
- 
-  * Prompt engineering (including adversarial prompt) for GPT and other LLMs. 
-</div>
-</div>
-<br />
 
 <div class="rblock">
-#### <b>Blockchain-Assisted Secure Infrastructures
+#### <b>Blockchain-Assisted Secur Infrastructures
 
 <div class="largefont">
 Blockchain is the fundamental infrastructure of the next-generation trust-based Web (the so-called Web3.0).  Web3.0 is often cited to shape every aspect of our lives:
 
-  * Web3.0 or Metaverse.
+  * Build transparent and trustworthy computing and ground-breaking Web3.0/Metaverse applications, such as transforming the legal sector via smart contract. 
 
-  * Define and advance the fundamental infrastructure enablers for a trust-based future Internet/Web/Metaverse. 
-
-  * Build transparent and trustworthy computing and ground-breaking Web3.0/Metaverse applications. 
-
-  * Build security and trust systems to empower new Internet architectural innovations and industry IoT systems. 
+  * Build security and trust systems to empower Internet architectural initiatives, such as verifiable routing and IP network.  
 </div>
 </div>
 <br />
 
 <div class="rblock">
-#### <b>Applied ML/AI in Practical Distributed Systems
+#### <b>Misc: InspiringGroup worked a wide range of other problems. 
  
 <div class="largefont">
-  * Systems and networks with built-in artificial intelligence. 
+  * Privacy Computing:  we worked on various privacy computing techniques, including Federated Learning, Data Space, Secure Multi-party Computation, Secure Enclaves (i.e., trusted execution environments), Zero-knowledge Proofs, and Differential Privacy systems. 
 
-  * Data-driven security policy design for large-scale and heterogeneous systems. 
+  * AI-Driven Network Traffic Analysis: networking security heavily depends on the insights into encrypted traffic. Our team built various algorithms and systems to enable accurate analysis. 
 
-  * Systems to empower and secure Machine Learning innovations and applications. 
+  * Secure Inter-domain Routing: our team is leading in building a secure inter-domain routing protocol for the Internet.  
 </div>
 </div>
 <br />
