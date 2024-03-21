@@ -1,7 +1,9 @@
+- date: Feb 2024
+  headline: <b>[Privacy Theory in ML]</b> Our paper on understanding the data privacy in FL is accepted by USENIX Secuirty 2024. 
 - date: Jan 2024
   headline: <b>[Network Security]</b> Our paper on detecting and interpreting BGP anomalies at scale is accepted by USENIX Secuirty 2024. 
 - date: Dec 2023
-  headline: <b>[Academic Services]</b> Invited to serve on the TPC of ACM CCS 2024 (Machine Learning Security Track), SIGMETRICS 2024 and IEEE ICDCS 2024. Please consider to submit. 
+  headline: <b>[Academic Services]</b> Invited to serve on the TPC of ACM CCS 2024 (Machine Learning Security Track), Usenix Security 2024, SIGMETRICS 2024 and IEEE ICDCS 2024. Please consider to submit. 
 - date: Dec 2023
   headline: <b>[ML Systems]</b> Our paper on intelligent network dataplane (INDP) is accepted by USENIX NSDI 2024, This work features the most advanced IDNP design that enables nerual network driven traffic analysis at line-speed. 
 - date: Sep 2023
