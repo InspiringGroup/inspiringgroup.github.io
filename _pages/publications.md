@@ -83,7 +83,9 @@ permalink: /publications/
 
   <b>{{ publi.title }}</b><br />
   <em>{{ publi.authors }} </em><br />
+  {%- if publi.conference != nil -%}
   {{publi.conference}}<br />
+  {% endif %}
   {%- if publi.pdf != nil -%}
   <a href="{{ publi.pdf }}">[pdf]</a>
   {% endif %}

@@ -8,3 +8,6 @@ Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purp
 
 Thanks and credit to Allan Lab. Code released under the MIT License.
 
+```
+bundle exec jekyll serve
+```

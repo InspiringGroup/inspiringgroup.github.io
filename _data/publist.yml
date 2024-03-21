@@ -19,8 +19,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://arxiv.org/pdf/2403.11090
+  doi: https://arxiv.org/abs/2403.11090
   slides: 
   code: 
 
@@ -32,7 +32,7 @@
   highlight: 
   news1:
   news2:
-  pdf: 
+  pdf: https://www.ndss-symposium.org/wp-content/uploads/2024-512-paper.pdf
   doi:
   slides: 
   code: 
@@ -45,8 +45,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: http://www.thucsnet.com/wp-content/papers/qi_ccs23.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3576915.3623134
   slides: 
   code: 
   
@@ -58,8 +58,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: http://www.thucsnet.com/wp-content/papers/peiyang_ccs23.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3576915.3623123
   slides: 
   code: 
 
@@ -71,8 +71,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://www.ndss-symposium.org/wp-content/uploads/2024-81-paper.pdf
+  doi: https://arxiv.org/abs/2309.04798
   slides: 
   code: 
 
@@ -84,14 +84,14 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://www.usenix.org/system/files/usenixsecurity23-he.pdf
+  doi: https://www.usenix.org/conference/usenixsecurity23/presentation/he
   slides: 
   code: 
 
 
 - title: "<a href='/publications/llms'>LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformers</a>"
-  conference: Under review
+  # conference: Under review
   authors: Xuanqi Liu, <span class="matr">Zhuotao Liu</span> 
   image: 
   description: 
@@ -99,7 +99,7 @@
   news1:
   news2:
   pdf: https://arxiv.org/pdf/2305.18396
-  doi:
+  doi: https://arxiv.org/abs/2305.18396
   slides: 
   code: 
 
@@ -111,8 +111,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://xusheng-xiao.github.io/papers/iSyn_issta.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3597926.3598091
   slides: 
   code: 
 
@@ -124,8 +124,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://www.usenix.org/system/files/atc23-al-fares.pdf
+  doi: https://www.usenix.org/conference/atc23/presentation/al-fares
   slides: 
   code: 
 
@@ -137,8 +137,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: http://www.thucsnet.com/wp-content/papers/xinhao_sp2023.pdf
+  doi: https://ieeexplore.ieee.org/abstract/document/10179464/
   slides: 
   code: 
 
@@ -150,8 +150,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: http://www.thucsnet.com/wp-content/papers/yunpeng_www2023.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3543507.3583198
   slides: 
   code: 
 
@@ -163,8 +163,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://www.usenix.org/system/files/usenixsecurity23-zhou-guangmeng.pdf
+  doi: https://www.usenix.org/conference/usenixsecurity23/presentation/zhou-guangmeng
   slides: 
   code: 
 
@@ -176,8 +176,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3555050.3569139
+  doi: https://dl.acm.org/doi/abs/10.1145/3555050.3569139
   slides: 
   code: 
  
@@ -189,8 +189,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://www.usenix.org/system/files/sec22-he-yi.pdf
+  doi: https://www.usenix.org/conference/usenixsecurity22/presentation/he-yi
   slides: 
   code: 
   
@@ -202,8 +202,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/anomaly-detection-sigmod2022.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3514221.3517861
   slides: 
   code: 
 
@@ -216,7 +216,7 @@
   news1:
   news2:
   pdf: 
-  doi:
+  doi: https://ieeexplore.ieee.org/abstract/document/9680702
   slides: 
   code: 
 
@@ -228,8 +228,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://www.usenix.org/system/files/sec22-fang.pdf
+  doi: https://www.usenix.org/conference/usenixsecurity22/presentation/fang
   slides: 
   code: https://github.com/usenixsub/DepImpact
   
@@ -254,7 +254,7 @@
   highlight: 
   news1:
   news2:
-  pdf: 
+  pdf: https://people.cs.vt.edu/penggao/papers/hyperservice-tdsc21.pdf
   doi: https://ieeexplore.ieee.org/document/9428608
   slides: 
   code: https://github.com/HyperService-Consortium
@@ -267,8 +267,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3485832.3488013
+  doi: https://dl.acm.org/doi/abs/10.1145/3485832.3488013
   slides: 
   code: 
 
@@ -280,8 +280,8 @@
   highlight: 
   news1:
   news2:
-  pdf: 
-  doi:
+  pdf: https://arxiv.org/pdf/2108.09513.pdf
+  doi: https://dl.acm.org/doi/abs/10.1145/3460120.3484796
   slides: 
   code: https://github.com/mujm/CCS21_GNNattack/tree/master
 
@@ -307,8 +307,8 @@
   highlight: 1
   news1:
   news2:
-  pdf: 
-  doi: 
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3433210.3453076
+  doi: https://dl.acm.org/doi/abs/10.1145/3433210.3453076
   slides: https://zliuinspire.github.io/files/PAIR_Slides.pdf
   code: 
 
@@ -320,7 +320,7 @@
   highlight: 1
   news1:
   news2:
-  pdf: 
+  pdf: https://ashessqy126.github.io/pub/SAP-SSE.pdf
   doi: https://ieeexplore.ieee.org/abstract/document/9276436
   slides: 
   code: 
@@ -333,7 +333,7 @@
   highlight: 
   news1:
   news2:
-  pdf: 
+  pdf: http://www.thucsnet.com/wp-content/papers/bo_network20.pdf
   doi: https://ieeexplore.ieee.org/document/9055734
   slides: 
   code: 
@@ -386,7 +386,7 @@
   highlight: 
   news1:
   news2:
-  pdf: 
+  pdf: http://www.thucsnet.com/wp-content/papers/bo_icdcs19.pdf
   doi: https://ieeexplore.ieee.org/document/8884853
   slides: 
   code: 
