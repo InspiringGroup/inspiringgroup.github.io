@@ -1,3 +1,5 @@
+- date: April 2024
+  headline: <b>[Privacy Computing for AI]</b> Our paper on training graph nerual networks (GNNs) over distributed and private data across multiple data providers is accepted by CCS 2024. This work features multiple novel crypto constructions to realize a fully-distributed and scalable GNN training/inference over distributed private data. 
 - date: Feb 2024
   headline: <b>[Privacy Theory in ML]</b> Our paper on understanding the data privacy in FL is accepted by USENIX Secuirty 2024. 
 - date: Jan 2024
@@ -7,7 +9,7 @@
 - date: Dec 2023
   headline: <b>[ML Systems]</b> Our paper on intelligent network dataplane (INDP) is accepted by USENIX NSDI 2024, This work features the most advanced IDNP design that enables nerual network driven traffic analysis at line-speed. 
 - date: Sep 2023
-  headline: <b>[Privacy Computing]</b> Our paper on privacy-preserving machine learning is accepted by NDSS 2024. This work features multiple novel cryptography constructions to accelerate AI training / inference over encrypted data. 
+  headline: <b>[Privacy Computing for AI]</b> Our paper on privacy-preserving machine learning is accepted by NDSS 2024. This work features multiple novel cryptography constructions to accelerate AI training / inference over encrypted data. 
 - date: Sep 2023
   headline: <b>[Web Security]</b> Our paper on zero-day Web attack detection is accepted by ACM CCS 2023.  
 - date: August 2023
