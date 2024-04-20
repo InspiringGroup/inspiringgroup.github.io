@@ -11,6 +11,19 @@
 #   slides: 
 #   code: 
 
+- title: "CoGNN: Towards Secure and Efficient Collaborative Graph Learning"
+  conference: ACM Conference on Computer and Communications Security (CCS) 2024
+  authors: Zhenhua Zou, <span class="matr">Zhuotao Liu</span>, Jinyong Shan, Qi Li, Ke Xu, Mingwei Xu
+  image: 
+  description: 
+  highlight: 
+  news1:
+  news2:
+  pdf: 
+  doi: 
+  slides: 
+  code: 
+
 - title: "Brain-on-Switch: Towards Advanced Intelligent Network Dataplane via NN-Driven Traffic Analysis at Line-Speed"
   conference: USENIX Symposium on Networked Systems Design and Implementation (NDSI) 2024
   authors: Jinzhu Yan, Haotian Xu, <span class="matr">Zhuotao Liu</span>, Qi Li, Ke Xu, Mingwei Xu, Jianping Wu
@@ -20,11 +33,11 @@
   news1:
   news2:
   pdf: https://arxiv.org/pdf/2403.11090
-  doi: https://arxiv.org/abs/2403.11090
+  doi: https://www.usenix.org/conference/nsdi24/presentation/yan
   slides: 
-  code: 
+  code: https://github.com/InspiringGroup-Lab/Brain-on-Switch
 
-- title: "Pencil: Private and Extensible Collaborative Learning without Non-Colluding Assumption"
+- title: "Pencil: Private and Extensible Collaborative Learning without the Non-Colluding Assumption"
   conference: Network and Distributed System Security (NDSS) Symposium 2024
   authors: Xuanqi Liu, <span class="matr">Zhuotao Liu</span>, Qi Li, Ke Xu, Mingwei Xu
   image: 
@@ -33,7 +46,33 @@
   news1:
   news2:
   pdf: https://www.ndss-symposium.org/wp-content/uploads/2024-512-paper.pdf
-  doi:
+  doi: https://www.ndss-symposium.org/wp-content/uploads/2024-512-paper.pdf
+  slides: 
+  code: https://github.com/lightbulb128/Pencil
+
+- title: "Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System"
+  conference: USENIX Security Symposium (Security) 2024
+  authors: Yihao Chen, Qilei Yin, Qi Li, <span class="matr">Zhuotao Liu</span>, Ke Xu, Yi Xu, Mingwei Xu, Ziqian Liu, Jianping Wu
+  image: 
+  description: 
+  highlight: 
+  news1:
+  news2:
+  pdf: https://arxiv.org/abs/2402.16025
+  doi: 
+  slides: 
+  code: 
+
+- title: "Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach"
+  conference: USENIX Security Symposium (Security) 2024
+  authors: Qi Tan, Qi Li, Yi Zhao, <span class="matr">Zhuotao Liu</span>, Xiaobing Guo, Ke Xu
+  image: 
+  description: 
+  highlight: 
+  news1:
+  news2:
+  pdf: https://arxiv.org/pdf/2403.01268v1.pdf
+  doi: 
   slides: 
   code: 
 
@@ -48,7 +87,7 @@
   pdf: http://www.thucsnet.com/wp-content/papers/qi_ccs23.pdf
   doi: https://dl.acm.org/doi/abs/10.1145/3576915.3623134
   slides: 
-  code: 
+  code: https://github.com/InspiringGroup-Lab/martFL
   
 - title: "Learning from Limited Heterogeneous Training Data: Meta-Learning for Unsupervised Zero-day Web Attack Detection across  Web Domains"
   conference: ACM Conference on Computer and Communications Security (CCS) 2023
