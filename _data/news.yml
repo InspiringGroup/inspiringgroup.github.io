@@ -1,4 +1,6 @@
 - date: July 2024
+  headline: <b>[Datacenter Networking]</b> Our paper on rearchitecting the Random Early Detection for high performance transport in DCN is accepted by NSDI 2025.
+- date: July 2024
   headline: <b>[Applied AI]</b> Our paper on performing fine-grained and large-scale webpage fingerprinting via encrypted traffic analysis is accepted by ACM CCS 2024. 
 - date: June 2024
   headline: <b>[LLM Security / Privacy]</b> Our paper on protecting LLM models by identifying key parameters is accepted by ICML 2024 NextGenAISafety workshop. 
