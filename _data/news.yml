@@ -1,5 +1,5 @@
 - date: Sep 2024
-  headline: <b>[Network Security]</b> Our paper on pre-training transformers for network-traffic data is accepted by IEEE S&P 2025. 
+  headline: <b>[Network Security]</b> Our paper on pre-training transformer models for analyzing network-traffic data is accepted by IEEE S&P 2025. 
 - date: August 2024
   headline: <b>[Award]</b> Our paper on Internet Routing Security won USENIX Security 2024 Distinguished Paper Award and the Internet Defense Prize, simultaneously!
 - date: July 2024
@@ -11,15 +11,15 @@
 - date: June 2024
   headline: <b>[Academic Service]</b> Invited to serve on the TPC of IEEE S&P 2025. Please consider to submit.  
 - date: May 2024
-  headline: <b>[Privacy Computing for AI]</b> CoGNN is awarded all three badges from ACM CCS 2024 artifact evaluation committee. 
+  headline: <b>[Privacy Computing for AI]</b> CoGNN is awarded all three badges by the ACM CCS 2024 artifact evaluation committee. 
 - date: April 2024
   headline: <b>[Privacy Computing for AI]</b> Our paper CoGNN on training graph nerual networks (GNNs) over distributed and private graph data across multiple data providers is accepted by ACM CCS 2024. This work features multiple novel crypto constructions to realize fully-distributed and scalable GNN training/inference over distributed private graph data. 
 - date: Feb 2024
-  headline: <b>[Privacy Theory in ML]</b> Our paper on understanding the data privacy in FL is accepted by USENIX Secuirty 2024. 
+  headline: <b>[Privacy Theory in FL]</b> Our paper on understanding the data privacy in FL is accepted by USENIX Secuirty 2024. 
 - date: Jan 2024
   headline: <b>[Network Security]</b> Our paper on detecting and interpreting BGP anomalies at scale is accepted by USENIX Secuirty 2024. 
 - date: Dec 2023
-  headline: <b>[Academic Services]</b> Invited to serve on the TPC of ACM CCS 2024 (Machine Learning Security Track), Usenix Security 2024, SIGMETRICS 2024 and IEEE ICDCS 2024. Please consider to submit. 
+  headline: <b>[Academic Service]</b> Invited to serve on the TPC of ACM CCS 2024 (Machine Learning Security Track), Usenix Security 2024, SIGMETRICS 2024 and IEEE ICDCS 2024. Please consider to submit. 
 - date: Dec 2023
   headline: <b>[ML Systems]</b> Our paper on intelligent network dataplane (INDP) is accepted by USENIX NSDI 2024, This work features the most advanced IDNP design that enables nerual network driven traffic analysis at line-speed. 
 - date: Sep 2023
@@ -27,9 +27,9 @@
 - date: Sep 2023
   headline: <b>[Web Security]</b> Our paper on zero-day Web attack detection is accepted by ACM CCS 2023.  
 - date: August 2023
-  headline: <b>[Data & Privacy Computing]</b> Our paper on building a utility-driven data marketplace is accepted by ACM CCS 2023. This work features a robust and verifiable Federated Learning architecture, underpinned by a secure model evaluation protocol to remove malicious model updates and a zero-knowledge proving system that ensures fair data trading.   
+  headline: <b>[Privacy Computing for AI]</b> Our paper on building a utility-driven data marketplace is accepted by ACM CCS 2023. This work features a robust and verifiable Federated Learning architecture, underpinned by a secure model evaluation protocol to remove malicious model updates and a zero-knowledge proving system that ensures fair data trading.   
 - date: August 2023
-  headline: <b>[Network Security]</b> Our paper on Intelligent Network Data Plane wins the USENIX Security 2023 Distinguished Paper Award!   
+  headline: <b>[ML Systems]</b> Our paper on Intelligent Network Data Plane wins the USENIX Security 2023 Distinguished Paper Award!   
 - date: July 2023
   headline: <b>[Network Security]</b> One paper on encrypted traffic analysis is accepted by NDSS 2024. This work handles the challenging problem of obtaining robust models with low-quality training data.  
 - date: June 2023
@@ -41,29 +41,21 @@
 - date: April 2023
   headline: <b>[Datacenter Networking]</b> One paper on optical datacenter networking design is accepted by IEEE ToN 2023. 
 - date: March 2023
-  headline: <b>[Applied AI]</b> One paper on multi-tab website fingerprinting attack (essentially analysis over encrypted network traffic) is accepted by IEEE S&P (Oakland) 2023. 
+  headline: <b>[Network Security]</b> One paper on multi-tab website fingerprinting attack (essentially analysis over encrypted network traffic) is accepted by IEEE S&P (Oakland) 2023. 
 - date: Feb 2023
-  headline: <b>[ML System]</b> One paper on certifying the ownership of DNN models is accepted by WWW 2023. 
+  headline: <b>[ML Systems]</b> One paper on certifying the ownership of DNN models is accepted by WWW 2023. 
 - date: December 2022
   headline: <b>[Academic Service]</b> Invited to serve as the PC member for ACM CCS 2023. Welcome your contributions. 
-- date: December 2022
-  headline: <b>[Invited Talk]</b> Invited to give a talk about "Smart Contract and Zero-Knowledge Proofs" on a Web3.0 course offered by Graduate School of People's Bank of China (Tsinghua Wudaokou).
-- date: December 2022
-  headline: <b>[Invited Talk]</b> Invited to give a talk about "Intelligent Network Data Plane" on Huawei Datacenter Networking Forum. 
 - date: November 2022
-  headline: <b>[Nework Infrastructure]</b> One work accepted by ACM CoNEXT'22, on enabling content providers to retain complete control over user experiences and ecomonic/social fairness policies on the public Internet. 
+  headline: <b>[Internet Infrastructure]</b> One work accepted by ACM CoNEXT'22, on enabling content providers to retain complete control over user experiences and ecomonic/social fairness policies on the public Internet. 
 - date: October 2022
   headline: <b>[Academic Service]</b> Invited to serve as the PC member for IEEE MetaCom 2023, a fresh venue on Metaverse and Web3.0. Welcome your contributions. 
-- date: October 2022
-  headline: <b>[Invited Talk]</b> Invited to give a talk on the 5th Huawei Forum on Trust and Privacy for the Future Digital World. Will give a talk titled "A Data-Centric View on Web3.0".
 - date: October 2022
   headline: <b>[Academic Service]</b> Invited to serve as the PC member for IEEE ICDCS 2023, a well-established venue on parallel and distributed systems. Welcome your contributions.
 - date: September 2022
   headline: <b>[ML System]</b> One work accepted by USENIX Security'23, on an efficient design of Intelligent Network Dataplane (IDP) that natively enables ML-driven traffic analysis at line-speed. 
 - date: September 2022
-  headline: <b>[New Members]</b> Welcome to Haotian Xu and Chenyang Li to join InspiringGroup as graduate students. 
-- date: September 2022
-  headline: <b>[Network Infrastructure]</b> One work accepted by HotNets 2022, on unifying L3-layer Internet innovations in a more deployable manner. 
+  headline: <b>[Internet Infrastructure]</b> One work accepted by HotNets 2022, on unifying L3-layer Internet innovations in a more deployable manner. 
 - date: July 2022
   headline: <b>[ML System]</b> One work accepted by ESORICS 2022, on verifiable out-sourced ML training.
 - date: February 2022
