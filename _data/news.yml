@@ -1,5 +1,7 @@
+- date: Sep 2024
+  headline: <b>[Network Security]</b> Our paper on pre-training transformers for network-traffic data is accepted by IEEE S&P 2025. 
 - date: August 2024
-  headline: '<b>[Award]</b> Our paper "Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System" won USENIX Security 2024 Distinguished Paper Award and the Internet Defense Prize, simultaneously!'
+  headline: <b>[Award]</b> Our paper on Internet Routing Security won USENIX Security 2024 Distinguished Paper Award and the Internet Defense Prize, simultaneously!
 - date: July 2024
   headline: <b>[Datacenter Networking]</b> Our paper on rearchitecting the Random Early Detection for high performance transport in DCN is accepted by NSDI 2025.
 - date: July 2024
